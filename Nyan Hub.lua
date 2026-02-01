@@ -6,8 +6,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "Script By : Nyan Hub"
          },
         Key = {
-        KeySystem = true,
-        Title = "Key System",
+        KeySystem = false,
+        Title = "None",
         Description = "",
         KeyLink = "",
         Keys = {"NYAN"},
@@ -22,7 +22,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        MinimizeButton({
        Image = "http://www.roblox.com/asset/?id=99781525528304",
-       Size = {20, 20},
+       Size = {30, 30},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
        Stroke = false,
