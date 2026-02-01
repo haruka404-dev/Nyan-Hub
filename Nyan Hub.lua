@@ -39,7 +39,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
     AddButton(Tab1o, {
      Name = "Leaf Hub",
     Callback = function()
-repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
+      repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
 
 loadstring(game:HttpGet("https://github.com/LeafHubAcademy/LeafHub/raw/refs/heads/main/Leaf.lua"))()
   end
