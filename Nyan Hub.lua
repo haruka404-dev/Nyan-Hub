@@ -58,3 +58,10 @@ AddButton(Tab2o, {
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Ratkinator/RatX/refs/heads/main/Loader.lua",true))()
   end
   })
+
+AddButton(Tab1o, {
+     Name = "Redz Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/luacoder-byte/luacoder/refs/heads/main/RedzHub.lua"))()
+  end
+  })
