@@ -93,3 +93,10 @@ AddButton(Tab2o, {
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Uranus9103/apexhubpro/refs/heads/main/EscapeTsunamiForBrainrots!/APEXHUB"))()
   end
   })
+
+AddButton(Tab2o, {
+     Name = "Solix Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/meobeo8/a/a/a"))()
+  end
+  })
