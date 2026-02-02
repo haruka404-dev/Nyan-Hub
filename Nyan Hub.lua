@@ -79,3 +79,10 @@ AddButton(Tab1o, {
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/real33ms/BloxFruits/refs/heads/main/AbacaxiHubOfc.lua"))()
   end
   })
+
+AddButton(Tab2o, {
+     Name = "Kdml Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/kedd063/KdmlScripts/refs/heads/main/EscapeTsunamiForBrainrotsV4"))()
+  end
+  })
