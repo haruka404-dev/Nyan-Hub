@@ -86,3 +86,10 @@ AddButton(Tab2o, {
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/kedd063/KdmlScripts/refs/heads/main/EscapeTsunamiForBrainrotsV4"))()
   end
   })
+
+AddButton(Tab2o, {
+     Name = "Apex Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/Uranus9103/apexhubpro/refs/heads/main/EscapeTsunamiForBrainrots!/APEXHUB"))()
+  end
+  })
