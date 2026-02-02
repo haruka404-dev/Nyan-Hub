@@ -72,3 +72,10 @@ AddButton(Tab1o, {
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/AnDepZaiHubBeta.lua"))()
   end
   })
+
+AddButton(Tab1o, {
+     Name = "Abacanxi Hub",
+    Callback = function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/real33ms/BloxFruits/refs/heads/main/AbacaxiHubOfc.lua"))()
+  end
+  })
